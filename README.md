@@ -18,4 +18,4 @@ Lo hice como parte de mi aprendizaje en Python, practicando el uso de listas, bu
 Solo necesitas tener Python instalado. Luego, ejecuta el archivo `.py` desde la terminal:
 
 ```bash
-python lista
+python lista.py
